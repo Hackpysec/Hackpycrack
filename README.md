@@ -10,6 +10,8 @@ Para ejecutar Hackpycrack, necesitarás tener instalado lo siguiente en tu siste
 - Python 3
 - hashcat
 
+<br/>
+
 ## Instalación
 
 Para instalar las dependencias en Ubuntu, puedes usar los siguientes comandos:
@@ -20,12 +22,16 @@ sudo apt install python3
 sudo apt install hashcat
 ```
 
+<br/>
+
 ## Uso
 Para usar Hackpycrack, necesitarás tener un archivo de hash y un diccionario. Luego, puedes ejecutar el script de la siguiente manera:
 
 ```bash
 python3 hackpycrack.py
 ```
+
+<br/>
 
 ## Ejemplo
 Aquí tienes un ejemplo de cómo usar Hackpycrack:
