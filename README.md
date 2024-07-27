@@ -1,6 +1,8 @@
 # Hackpycrack
 Hackpycrack es una herramienta de descifrado de hashes que utiliza hashcat y Python para descifrar hashes NTLMv2.
 
+<br/>
+
 ## Dependencias
 
 Para ejecutar Hackpycrack, necesitarás tener instalado lo siguiente en tu sistema:
