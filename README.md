@@ -25,12 +25,13 @@ sudo apt install hashcat
 <br/>
 
 ## Uso
+Por ahora solo está disponible en Linux.
+
 Para usar Hackpycrack, necesitarás tener un archivo de hash y un diccionario. Luego, puedes ejecutar el script de la siguiente manera:
 
 ```bash
 python3 hackpycrack.py
 ```
-Por ahora solo está disponible en Linux.
 
 <br/>
 
