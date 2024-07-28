@@ -30,6 +30,7 @@ Para usar Hackpycrack, necesitarás tener un archivo de hash y un diccionario. L
 ```bash
 python3 hackpycrack.py
 ```
+Por ahora solo está disponible en Linux.
 
 <br/>
 
