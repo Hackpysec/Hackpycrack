@@ -24,8 +24,8 @@ def descifrar_hash(ruta_hash, ruta_diccionario):
             print(f"Usuario: {usuario}, Contraseña: {contrasena}")
 
 # Rutas al archivo de hash y al diccionario
-ruta_hash = "/home/joel/Desktop/calculo_integral/descipher/SMB-NTLMv2.txt"
-ruta_diccionario = "/home/joel/Desktop/calculo_integral/descipher/rockyou.txt"
+ruta_hash = "ruta absoluta del hash"
+ruta_diccionario = "ruta absoluta del diccionario"
 
 # Llamar a la función para descifrar el hash
 descifrar_hash(ruta_hash, ruta_diccionario)
